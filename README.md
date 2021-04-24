@@ -1,3 +1,8 @@
+# Observations and Insights
+1. Mice who had the drug regimen of Propriva had the lowest weight measurements overall.
+2. The drug regimen of Capomulin seem to have the most impact on the tumor size volume of the mice.
+3. There is a positive correlation between the weight of the mouse and the size of its tumor based on the regression plot.
+
 # Matplotlib Homework - The Power of Plots
 
 ## Background
